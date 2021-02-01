@@ -1,0 +1,16 @@
+2021-02-01 23:31:53,515 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-01 23:31:54,696 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-01 23:31:56,277 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-01 23:31:57,403 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-01 23:32:01,319 ERROR [root] [baseApi.py (base_find_element:51] - 定位方式有错误:Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+2021-02-01 23:33:17,859 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-01 23:33:19,030 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-01 23:33:20,614 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-01 23:33:21,738 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-01 23:33:23,961 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']
+2021-02-01 23:35:00,432 INFO [root] [baseApi.py (base_find_element:49] - had find element帐号密码登录,by xpath via value//*[@text='帐号密码登录']
+2021-02-01 23:35:01,565 INFO [root] [baseApi.py (base_find_element:49] - had find element请输入手机号/邮箱,by xpath via value//*[@text='请输入手机号/邮箱']
+2021-02-01 23:35:03,133 INFO [root] [baseApi.py (base_find_element:30] - had find element,by id via valuecom.douban.frodo:id/input_password
+2021-02-01 23:35:04,259 INFO [root] [baseApi.py (base_find_element:30] - had find element登录,by id via valuecom.douban.frodo:id/sign_in_douban
+2021-02-01 23:35:07,584 INFO [root] [baseApi.py (base_find_element:49] - had find element我的,by xpath via value//android.widget.TextView[@text='我的']

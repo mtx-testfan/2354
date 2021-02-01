@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-60EEKMHU",
+    "children" : [ {
+      "name" : "16052-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "4566f7dc0608e35f",
+        "parentUid" : "25f77e8119d607d3bbf7793c549bb8b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612193697798,
+          "stop" : 1612193709260,
+          "duration" : 11462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "25f77e8119d607d3bbf7793c549bb8b4"
+    } ],
+    "uid" : "2e2c7881a4cd55698402b7f8bf498003"
+  } ]
+}

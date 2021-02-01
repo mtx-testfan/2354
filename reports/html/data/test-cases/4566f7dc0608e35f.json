@@ -1,0 +1,114 @@
+{
+  "uid" : "4566f7dc0608e35f",
+  "name" : "test_login",
+  "fullName" : "case.test_douban#test_login",
+  "historyId" : "8fd53cc43469d725830b55e7ca1c1c21",
+  "time" : {
+    "start" : 1612193697798,
+    "stop" : 1612193709260,
+    "duration" : 11462
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getdriver",
+    "time" : {
+      "start" : 1612193676106,
+      "stop" : 1612193697794,
+      "duration" : 21688
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1612193676028,
+      "stop" : 1612193676106,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bf04ccdd65de2677",
+      "name" : "log",
+      "source" : "bf04ccdd65de2677.txt",
+      "type" : "text/plain",
+      "size" : 546
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "getdriver::0",
+    "time" : {
+      "start" : 1612193709261,
+      "stop" : 1612193716413,
+      "duration" : 7152
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_douban"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-60EEKMHU"
+  }, {
+    "name" : "thread",
+    "value" : "16052-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_douban"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4566f7dc0608e35f.json",
+  "parameterValues" : [ ]
+}
